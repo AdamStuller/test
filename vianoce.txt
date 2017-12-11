@@ -2,9 +2,8 @@ mamka je sikovna
 mamka je super
 
 oco cia zem a vek
-<<<<<<< HEAD
+
 homofobia 
-rasizmus 
-=======
+rasizmus
 islamofobia 
->>>>>>> master
+
